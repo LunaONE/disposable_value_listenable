@@ -1,0 +1,18 @@
+name: disposable_value_listenable
+description: "Base interface for `ValueListenable`-implementing classes which need to be `dispose`d after usage."
+version: 1.0.0
+repository: https://github.com/LunaONE/disposable_value_listenable
+
+environment:
+  sdk: ^3.0.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0

@@ -1,0 +1,1 @@
+A base interface for `ValueListenable`-implementing classes which need to be `dispose`d after usage.
