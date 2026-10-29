@@ -1,6 +1,6 @@
 name: disposable_value_listenable
 description: "Base interface for `ValueListenable`-implementing classes which need to be `dispose`d after usage."
-version: 1.0.0
+version: 2.0.0
 repository: https://github.com/LunaONE/disposable_value_listenable
 
 environment:
